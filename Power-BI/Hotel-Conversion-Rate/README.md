@@ -1,3 +1,5 @@
 This project about 3 advertisers are interested in customer booking conversion rates
 
-thanks for your time!
+Enjoy your time with my project,
+
+Thanks for your time!
